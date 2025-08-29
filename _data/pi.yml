@@ -1,10 +1,10 @@
-- name: Dr. Richard Feynman
+- name: Aditya Mehta
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
+  info: Senior Undergraduate,BTech - MTech, Department of Chemical Engineering, Indian Institute of Technology Gandhinagar
+  email: mehta.aditya@iitgn.ac.in
+  github: https://github.com/adityamehta19
   researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  scholar: https://scholar.google.com/citations?hl=en&user=UeDkAJEAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
