@@ -1,7 +1,7 @@
 # Site settings
 title: Aditya Mehta
 email: mehta.aditya@iitgn.ac.in
-description: Academic webpage of Dr. Aditya Mehta
+description: Academic webpage of Aditya Mehta
 baseurl: ""
 url: ""
 
@@ -13,17 +13,20 @@ url: ""
 # Footer info
 affiliation: >
   Aditya Mehta<br/>
-  Chemical Engineering, Student<br/>
+  4th Year, BTech - MTech <br/
+  Department of Chemical Engineering, Student<br/>
   Indian Institute of Technology Gandhinagar
 
-location: >
-  Indian Institute of Technology Gandhinagar<br/>
-  VGEC Campus, Chandkheda<br/>
-  Gandhinagar, Gujarat 382424
+#location: >
+#  Indian Institute of Technology Gandhinagar<br/>
+#  VGEC Campus, Chandkheda<br/>
+#  Gandhinagar, Gujarat 382424
 
 contact: >
-  <a href="mailto:mehta.aditya@iitgn.ac.in" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Aditya via email</a> <br/>
-  <a href="https://www.linkedin.com/in/aditya-mehta-925b36272/"><i class="fa fa-linkedin fa-1x"></i> Linkedin</a>
+  <a href="mailto:mehta.aditya@iitgn.ac.in" target="_blank"><i class="fa fa-envelope fa-1x"></i>Email Me</a> <br/>
+  <a href="https://www.linkedin.com/in/aditya-mehta-925b36272/"><i class="fa fa-linkedin fa-1x"></i> Linked In</a>
+  <a href="tel:9429428442"><i class="fa fa-phone fa-1x"></i>Call Me</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=UeDkAJEAAAAJ"><i class="fa fa-graduation-cap fa-1x"></i> Google Scholar</a>
 
 # Pages shown in navbar
 nav_pages:
