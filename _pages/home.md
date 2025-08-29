@@ -7,11 +7,7 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Molecular Simulations act as a computational microscope, revealing the intricate, atomistic interactions which govern the behaviour of the materials. This approach is vital for rational design, enabling the computational screening of high-affinity peptides for specific materials, understanding the stability of ion-amino acid interactions, and designing novel proteins for selective binding.
 
 <div class="container">
 <div class="row">

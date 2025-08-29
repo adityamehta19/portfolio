@@ -1,6 +1,8 @@
 - name: Aditya Mehta
   photo: headshot.jpg
-  info: Senior Undergraduate,BTech - MTech, Department of Chemical Engineering, Indian Institute of Technology Gandhinagar
+  info: Senior Undergraduate,
+  info: BTech - MTech, Department of Chemical Engineering, 
+  info: Indian Institute of Technology Gandhinagar
   email: mehta.aditya@iitgn.ac.in
   github: https://github.com/adityamehta19
   researchgate: https://www.researchgate.net/
