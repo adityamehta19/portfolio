@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Great Mathematicians and Physicists"
+title: "Life's Unwavering Dance with Non-Equilibrium"
 date: 2024-05-31
 categories: "Fun"
 ---
